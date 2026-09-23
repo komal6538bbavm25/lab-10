@@ -1,1 +1,1 @@
-# lab-10
+This document focuses on aviation image generation using structured prompts. It explains prompt components, image refinement, prompt bleed, aviation accuracy, professional audits, and responsible AI use. It also covers realistic airport visuals, ethical concerns, image limitations, peer review, and the importance of human review before publication. 
